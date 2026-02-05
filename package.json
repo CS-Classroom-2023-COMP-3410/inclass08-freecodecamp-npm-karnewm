@@ -14,4 +14,7 @@
   "author": "Karima",
   "description": "A project that does something awesome",
   "keywords": ["freecodecamp", "node", "npm", "learning"]
+  "license": "MIT",
+  "version": "1.2.0",
+
 }
